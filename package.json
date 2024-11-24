@@ -43,7 +43,7 @@
     "eslint-plugin-eslint-plugin": "^2.1.0",
     "eslint-traverser": "^1.5.2",
     "istanbul": "^0.4.5",
-    "mocha": "^6.2.0",
+    "mocha": "^10.8.2",
     "nyc": "^14.1.1"
   },
   "engines": {
